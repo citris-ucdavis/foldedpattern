@@ -1,4 +1,4 @@
-﻿# Visual Thinking Folded Pattern Puzzle
+﻿# Folded Pattern Visual Thinking Puzzle
 
 <p align="center"><img src="https://raw.githubusercontent.com/citris-ucdavis/foldedpattern/master/.github/foldedpattern.jpg" width="480"></p>
 
